@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ac{
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 50px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.ac button{
+    background-color: black;
+    color: white;
+    padding: 4px;
+    border-radius: 4px;
+}
